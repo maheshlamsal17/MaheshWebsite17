@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+font-family: 'Noto Sans', sans-serif;
+text-align: center;
+color: #fff;
+line-height: 1.5;
+letter-spacing: 1px;
+
+}
+.Wrapper{
+min-height: 100vh;
+width: 100%;
+background-image:linear-gradient(rgba(0, 0, 0, 0.75), rgba(0,0,0,0.75)), url('../Portfolio/b.jpg');
+background-position: center;
+background-size: cover;
+}
+.testimonial{
+padding: 3opx 100px;
+}
+article h1{
+font-size: 50px;
+font-weight: 800;
+text-transform: uppercase;
+}
+blockquote{
+font-family: sans-serif;
+font-size: 22px;
+margin-top: 30px;
+
+
+
+
+}
+
+article h5{
+
+text-transform: uppercase;
+font-size: 27px;
+margin-top: 30px;
+
+}
+
+
